@@ -7,8 +7,8 @@ In the linked YouTube video, I show how to change your Figma design into Python 
 ![GUI Demo](GUI_Demo.gif)
 
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/NVPibVfFVtM/0.jpg)](https://youtu.be/NVPibVfFVtM)
 
 
 
