@@ -12,7 +12,6 @@ In the linked YouTube video, I show how to change your Figma design into Python 
 
 
 
-
 ## 🤓 Check Out My Excel Add-ins
 I've developed some handy Excel add-ins that you might find useful:
 
@@ -23,7 +22,6 @@ I've developed some handy Excel add-ins that you might find useful:
   - ChatGPT integration for advanced data analysis
   - And much more!
 
-
 ## 🤝 Connect with Me
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
@@ -31,7 +29,7 @@ I've developed some handy Excel add-ins that you might find useful:
 - 💼 **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - 📸 **Instagram:** [sven_bosau](https://www.instagram.com/sven_bosau/)
 
-## Support 
+## ☕ Support 
 If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
 
